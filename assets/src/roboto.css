@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Thin'), local('Roboto-Thin'), url('robotothin.woff2')/*tpa=http://optivision24.ru/v2/src/robotothin.woff2*/ format('woff2'), url('robotothin.woff')/*tpa=http://optivision24.ru/v2/src/robotothin.woff*/ format('woff'), url('robotothin.ttf')/*tpa=http://optivision24.ru/v2/src/robotothin.ttf*/ format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Thin Italic'), local('Roboto-ThinItalic'), url('robotothinitalic.woff2')/*tpa=http://optivision24.ru/v2/src/robotothinitalic.woff2*/ format('woff2'), url('robotothinitalic.woff')/*tpa=http://optivision24.ru/v2/src/robotothinitalic.woff*/ format('woff'), url('robotothinitalic.ttf')/*tpa=http://optivision24.ru/v2/src/robotothinitalic.ttf*/ format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Light'), local('Roboto-Light'), url('robotolight.woff2')/*tpa=http://optivision24.ru/v2/src/robotolight.woff2*/ format('woff2'), url('robotolight.woff')/*tpa=http://optivision24.ru/v2/src/robotolight.woff*/ format('woff'), url('robotolight.ttf')/*tpa=http://optivision24.ru/v2/src/robotolight.ttf*/ format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Light Italic'), local('Roboto-LightItalic'), url('robotolightitalic.woff2')/*tpa=http://optivision24.ru/v2/src/robotolightitalic.woff2*/ format('woff2'), url('robotolightitalic.woff')/*tpa=http://optivision24.ru/v2/src/robotolightitalic.woff*/ format('woff'), url('robotolightitalic.ttf')/*tpa=http://optivision24.ru/v2/src/robotolightitalic.ttf*/ format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto'), local('Roboto-Regular'), url('roboto.woff2')/*tpa=http://optivision24.ru/v2/src/roboto.woff2*/ format('woff2'), url('roboto.woff')/*tpa=http://optivision24.ru/v2/src/roboto.woff*/ format('woff'), url('roboto.ttf')/*tpa=http://optivision24.ru/v2/src/roboto.ttf*/ format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Italic'), local('Roboto-Italic'), url('robotoitalic.woff2')/*tpa=http://optivision24.ru/v2/src/robotoitalic.woff2*/ format('woff2'), url('robotoitalic.woff')/*tpa=http://optivision24.ru/v2/src/robotoitalic.woff*/ format('woff'), url('robotoitalic.ttf')/*tpa=http://optivision24.ru/v2/src/robotoitalic.ttf*/ format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Medium'), local('Roboto-Medium'), url('robotomedium.woff2')/*tpa=http://optivision24.ru/v2/src/robotomedium.woff2*/ format('woff2'), url('robotomedium.woff')/*tpa=http://optivision24.ru/v2/src/robotomedium.woff*/ format('woff'), url('robotomedium.ttf')/*tpa=http://optivision24.ru/v2/src/robotomedium.ttf*/ format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Medium Italic'), local('Roboto-MediumItalic'), url('robotomediumitalic.woff2')/*tpa=http://optivision24.ru/v2/src/robotomediumitalic.woff2*/ format('woff2'), url('robotomediumitalic.woff')/*tpa=http://optivision24.ru/v2/src/robotomediumitalic.woff*/ format('woff'), url('robotomediumitalic.ttf')/*tpa=http://optivision24.ru/v2/src/robotomediumitalic.ttf*/ format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Bold'), local('Roboto-Bold'), url('robotobold.woff2')/*tpa=http://optivision24.ru/v2/src/robotobold.woff2*/ format('woff2'), url('robotobold.woff')/*tpa=http://optivision24.ru/v2/src/robotobold.woff*/ format('woff'), url('robotobold.ttf')/*tpa=http://optivision24.ru/v2/src/robotobold.ttf*/ format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Bold Italic'), local('Roboto-BoldItalic'), url('robotobolditalic.woff2')/*tpa=http://optivision24.ru/v2/src/robotobolditalic.woff2*/ format('woff2'), url('robotobolditalic.woff')/*tpa=http://optivision24.ru/v2/src/robotobolditalic.woff*/ format('woff'), url('robotobolditalic.ttf')/*tpa=http://optivision24.ru/v2/src/robotobolditalic.ttf*/ format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Black'), local('Roboto-Black'), url('robotoblack.woff2')/*tpa=http://optivision24.ru/v2/src/robotoblack.woff2*/ format('woff2'), url('robotoblack.woff')/*tpa=http://optivision24.ru/v2/src/robotoblack.woff*/ format('woff'), url('robotoblack.ttf')/*tpa=http://optivision24.ru/v2/src/robotoblack.ttf*/ format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Black Italic'), local('Roboto-BlackItalic'), url('robotoblackitalic.woff2')/*tpa=http://optivision24.ru/v2/src/robotoblackitalic.woff2*/ format('woff2'), url('robotoblackitalic.woff')/*tpa=http://optivision24.ru/v2/src/robotoblackitalic.woff*/ format('woff'), url('robotoblackitalic.ttf')/*tpa=http://optivision24.ru/v2/src/robotoblackitalic.ttf*/ format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
